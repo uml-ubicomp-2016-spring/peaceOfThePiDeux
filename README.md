@@ -1,22 +1,38 @@
 AIMS:
 ~Begin Framework for Android Side App
+
 ~Scrape for Location Data
+
 Scrape for Sound collected from microphone
+
 ~Normalize the Data
+
 ~Push Data to the needed Database
+
 ~Establish link to Server from Android Apps side
+
 ~Establish link to the Database from Android side
+
 ~Log Location Data
+
 Log Sound Level Data
+
 ~Post Data to a Database
 
 ~Begin production of the website
+
 ~Establish the link to the Google Api
+
 Establish Link to Server from Website side
+
 Establish link to Database from Website side
+
 Pull the Data from the Database, post to Node Website side(, in JSON format?)
+
 Display the Data collected on map.
+
 Normalize the Data
+
 Fully Display the Data
 
 Week Of April 11, 2016
